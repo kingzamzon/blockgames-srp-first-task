@@ -1,3 +1,8 @@
+Live Demo: http://dramatic-desire.surge.sh/
+
+contract: https://rinkeby.etherscan.io/address/0x3c19c66FbFcbb9D30F1ce7D7bCB80969a061451D#code
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
